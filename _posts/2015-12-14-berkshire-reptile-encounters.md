@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: '"BRINGING EXOTIC ANIMALS TO YOU!"'
-datePublished: '2015-12-14T10:52:04.488Z'
-dateModified: '2015-12-14T10:38:13.212Z'
+datePublished: '2015-12-14T11:07:44.842Z'
+dateModified: '2015-12-14T10:52:52.259Z'
 title: BERKSHIRE REPTILE ENCOUNTERS
 author: []
+sourcePath: _posts/2015-12-14-berkshire-reptile-encounters.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-14-berkshire-reptile-encounters.md
-published: true
 url: berkshire-reptile-encounters/index.html
 _type: Article
 
