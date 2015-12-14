@@ -1,25 +1,26 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: '"bringing exotic animals to you"'
-datePublished: '2015-12-14T21:15:51.458Z'
-dateModified: '2015-12-14T21:15:44.147Z'
+datePublished: '2015-12-14T21:51:38.898Z'
+dateModified: '2015-12-14T21:46:55.101Z'
 title: BERKSHIRE REPTILE ENCOUNTERS
 author: []
+sourcePath: _posts/2015-12-14-berkshire-reptile-encounters.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-14-berkshire-reptile-encounters.md
-published: true
-url: berkshire-reptile-encounters/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f8fc06dbde3aa1f3082b5ef8d7b12dba168f8a4.jpg)
+Meet Chunk our best boy! He is a vital member of our crew coming out to meet people of all ages at various types of event including birthday parties, fêtes, school sessions, scouts beaver guides ect, clubs, corporate events, weddings,   
+stag or hen do's,christenings, therapy sessions and fundraisers. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f8fc06dbde3aa1f3082b5ef8d7b12dba168f8a4.jpg)
