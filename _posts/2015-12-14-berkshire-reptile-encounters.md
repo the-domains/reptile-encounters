@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '"bringing exotic animals to you"'
-datePublished: '2015-12-14T21:51:38.898Z'
-dateModified: '2015-12-14T21:46:55.101Z'
+datePublished: '2015-12-14T21:53:14.040Z'
+dateModified: '2015-12-14T21:52:35.866Z'
 title: BERKSHIRE REPTILE ENCOUNTERS
 author: []
 sourcePath: _posts/2015-12-14-berkshire-reptile-encounters.md
