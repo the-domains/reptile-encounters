@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Berkshire reptile encounters.]]></title>
         <description><![CDATA[Berkshire reptile encounters.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reptile-encounters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 21:15:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 21:16:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reptile-encounters/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BERKSHIRE REPTILE ENCOUNTERS]]></title>
-            <description><![CDATA[<article><h1>BERKSHIRE REPTILE ENCOUNTERS</h1><p>Chunk Graham and Jo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6ed90f38572aea3d972269613c4e653f4dcfa17.jpg"></article>]]></description>
-            <link>undefinedberkshire-reptile-encounters/index.html</link>
+            <description><![CDATA[<article><h1>BERKSHIRE REPTILE ENCOUNTERS</h1><p>Chunk Graham and Jo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6208b7d8286441923ab3474f4d0d585bb3654911.jpg"></article>]]></description>
+            <link>https://thegrid.ai/reptile-encounters/berkshire-reptile-encounters/index.html</link>
             <guid isPermaLink="false">630257b4-17ca-4ca1-aafb-d74c07afe2f1</guid>
-            <pubDate>Mon, 14 Dec 2015 21:15:44 GMT</pubDate>
+            <pubDate>Mon, 14 Dec 2015 21:15:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
