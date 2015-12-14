@@ -1,7 +1,7 @@
 name: reptile encounters
 favicon: null
-layout_spectrum: 0.5791960435453802
-typography_spectrum: 0.8514370135962963
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.2536407648585737
+    - '#1e3219'
+    - '#070604'
+    - '#596851'
+    - '#b8a797'
+    - '#edee1a'
+  brandStrength: 1
   lightness: 0.8474874147213995
-  saturation: 0.9474817090667784
+  saturation: 1
   rhythmicContrast: 0.5245832446962595
 purpose: []
